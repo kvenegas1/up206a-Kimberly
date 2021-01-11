@@ -1,4 +1,4 @@
-## UP206A: Introduction to GIS and Spatial Data Science <h2> 
+## UP206A: Introduction to GIS and Spatial Data Science :world_map: <h2> 
 
 **Course description:**
 
