@@ -9,3 +9,4 @@ I am interested in analyzing the how accesible public transit is for affordable 
 I would also be curious to know which Los Angeles streets have the most accidents and whether they are in low income areas
 
 Objectives for the class:
+I want to learn to effectively use python to create maps I can use in my reports. I also want to learn where I can find different types of data and how to integrate it into my work. 
