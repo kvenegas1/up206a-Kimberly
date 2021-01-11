@@ -1,4 +1,3 @@
-# up206a-Kimberly
 ## UP206A: Introduction to GIS and Spatial Data Science <h2> 
 
 Course description: 
