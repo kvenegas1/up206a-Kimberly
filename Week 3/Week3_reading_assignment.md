@@ -1,1 +1,4 @@
-dsffds
+## Week 3 Reading Assignment: Geoff Boeing Presentation to Urban Planners
+https://www.youtube.com/watch?v=Cjp4mxvpoBo&feature=youtu.be
+
+When professor Boeing said that he couldn't get his hands on the data he needed to do his dissertation that made me laugh because I have had my own experiences in which I couldn't find the data I needed to do a project or sometimes I did find it but I had to request it from the city. Professor Yoh is right, I am scared of this class. I've only ever learned how to use ESRI so all of this coding is new to me. It was interesting to consider how much income correlates with grids. Before watching this video I use to think that curvy streets were mostly found in rich areas and grids in low income areas. However, like the professor mentioned, there are areas high income in high density cities like Santa Monica that are based on a grid. There are also lower income rural areas that have curvy streets. So just trying to think of it through the lens of income doesn't make sense. 
