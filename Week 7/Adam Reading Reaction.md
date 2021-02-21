@@ -1,4 +1,4 @@
-Parking search caused congestion: Where’s all the fuss? 
+**Parking search caused congestion: Where’s all the fuss?**
 
 It was interesting reading about the research that went into figuring out how much congestion cruising causes. However, what I found the most interesting is that they took videos of drivers, followed them in bicycles, and obtained their GPS coordinates from their smartphones and in-car navigation devices. I am beyond suprised that the drivers allowed this. I have heard the drivers are really protective of their privacy. I think I have read somewhere that states are trying to implement a mileage tax that asks drivers to allow the state to track their VMT through their cellphone or a GPS tracker and that the drivers quickly turned down the idea. So how did these studies manage to get that information? The video recording of drivers is the most surprising out of all of them.
 
