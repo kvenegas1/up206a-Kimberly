@@ -4,5 +4,6 @@ It was interesting reading about the research that went into figuring out how mu
 
 My other reaction to the study is that they created such beautiful figures. I especially like the Mean Number of Repeated Blocks San Francisco, (Inverse Distance Weighted Interpolation) because of the details they added to it. I appreciate that they added the BART stations and SFpark pilot areas. 
 
+
 My questions for Adam is how did you and others convince drivers to let you record them on video and follow them on bicycles?
 
